@@ -27,9 +27,9 @@ In this challenge, users should be able to check all the interactive states of t
 
 ### Links
 
-- Solution URL: [Add solution URL here](ivonildo-aires.github.io/solucao-perfil-links-sociais/)
+- Solution URL: [Add solution URL here](https://ivonildo-aires.github.io/Solucao-perfil-links-sociais/)
 
-- Live Site URL: [Add live site URL here](ivonildo-aires.github.io/solucao-perfil-links-sociais/)
+- Live Site URL: [Add live site URL here](https://ivonildo-aires.github.io/Solucao-perfil-links-sociais/)
 
 ## My process
 
